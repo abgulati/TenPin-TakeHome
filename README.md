@@ -1,11 +1,13 @@
-Objective
+Objective:
+
 Produce the score for one single-lane game of American ten-pin bowling
 ↳ Not checking if rolls are valid or invalid
 ↳ Not checking for the correct number of rolls and frames
 ↳ Not scoring intermediate frames (?)
 
 
-Game Rules
+Game Rules:
+
 Ten-pin bowling:
 ↳ Game consists of 10 “frames”
 ↳ Each frame provides players two opportunities to knock down all ten pins
@@ -18,7 +20,8 @@ Ten-pin bowling:
 	↳ Thus for a game of 10 frames, it’s 300
 ↳ Additionally, if a player scores a strike or a spare in the final (10th) frame, they do get to roll the extra balls but no more    than three rolls are allowed in the final frame, this way a game can have a maximum of 12 strikes
 
-Approach
+Approach:
+
 1.	The core-nature:
 	A roll can be valid or invalid, but since that’s out of scope, let’s assume all rolls are valid
 	A valid roll may make contact with the pins, or it may go to the gutter
