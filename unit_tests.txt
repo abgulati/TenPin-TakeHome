@@ -1,0 +1,159 @@
+Frame  1 :
+Roll scores: 10
+Frame  2 :
+Roll scores: 3, 5
+Frame  3 :
+Roll scores: 7, 3
+Frame  4 :
+Roll scores: 10
+Frame  5 :
+Roll scores: 10
+Frame  6 :
+Roll scores: 8, 1
+Frame  7 :
+Roll scores: 5, 0
+Frame  8 :
+Roll scores: 0, 0
+Frame  9 :
+Roll scores: 7, 0
+Frame  10 :
+Roll scores: 10
+Frame  11 :
+Roll scores: 10, 10
+
+Final Scores
+
+Frame score for frame  1  is:  18
+Frame score for frame  2  is:  8
+Frame score for frame  3  is:  20
+Frame score for frame  4  is:  28
+Frame score for frame  5  is:  19
+Frame score for frame  6  is:  9
+Frame score for frame  7  is:  5
+Frame score for frame  8  is:  0
+Frame score for frame  9  is:  7
+Frame score for frame  10  is:  30
+Final Game Score is:  144
+
+
+
+
+Frame  1 :
+Roll scores: 10
+Frame  2 :
+Roll scores: 10
+Frame  3 :
+Roll scores: 10
+Frame  4 :
+Roll scores: 10
+Frame  5 :
+Roll scores: 10
+Frame  6 :
+Roll scores: 10
+Frame  7 :
+Roll scores: 10
+Frame  8 :
+Roll scores: 10
+Frame  9 :
+Roll scores: 10
+Frame  10 :
+Roll scores: 10
+Frame  11 :
+Roll scores: 10, 10
+
+Final Scores:  {1: 10, 2: 10, 3: 10, 4: 10, 5: 10, 6: 10, 7: 10, 8: 10, 9: 10, 10: 10, 11: [10, 10]}
+
+Frame score for frame  1  is:  30
+Frame score for frame  2  is:  30
+Frame score for frame  3  is:  30
+Frame score for frame  4  is:  30
+Frame score for frame  5  is:  30
+Frame score for frame  6  is:  30
+Frame score for frame  7  is:  30
+Frame score for frame  8  is:  30
+Frame score for frame  9  is:  30
+Frame score for frame  10  is:  30
+Final Game Score is:  300
+PS C:\Users\abhee\OneDrive\Documents\Study\Assignment - Take Home>
+
+
+
+
+
+Frame  1 :
+Roll scores: 10
+Frame  2 :
+Roll scores: 10
+Frame  3 :
+Roll scores: 10
+Frame  4 :
+Roll scores: 10
+Frame  5 :
+Roll scores: 10
+Frame  6 :
+Roll scores: 10
+Frame  7 :
+Roll scores: 10
+Frame  8 :
+Roll scores: 10
+Frame  9 :
+Roll scores: 10
+Frame  10 :
+Roll scores: 7, 3
+Frame  11 :
+Roll scores: 10
+
+Final Scores:  {1: 10, 2: 10, 3: 10, 4: 10, 5: 10, 6: 10, 7: 10, 8: 10, 9: 10, 10: [7, 3], 11: 10}
+
+Frame score for frame  1  is:  30
+Frame score for frame  2  is:  30
+Frame score for frame  3  is:  30
+Frame score for frame  4  is:  30
+Frame score for frame  5  is:  30
+Frame score for frame  6  is:  30
+Frame score for frame  7  is:  30
+Frame score for frame  8  is:  27
+Frame score for frame  9  is:  20
+Frame score for frame  10  is:  20
+Final Game Score is:  277
+
+
+
+Frame  1 :
+Roll scores: 10
+Frame  2 :
+Roll scores: 10
+Frame  3 :
+Roll scores: 10
+Frame  4 :
+Roll scores: 10
+Frame  5 :
+Roll scores: 10
+Frame  6 :
+Roll scores: 10
+Frame  7 :
+Roll scores: 10
+Frame  8 :
+Roll scores: 10
+Frame  9 :
+Roll scores: 10
+Frame  10 :
+Roll scores: 7, 3
+Frame  11 :
+Roll scores: 10, 10
+
+Final Scores:  {1: 10, 2: 10, 3: 10, 4: 10, 5: 10, 6: 10, 7: 10, 8: 10, 9: 10, 10: [7, 3], 11: [10, 10]}
+
+Frame score for frame  1  is:  30
+Frame score for frame  2  is:  30
+Frame score for frame  3  is:  30
+Frame score for frame  4  is:  30
+Frame score for frame  5  is:  30
+Frame score for frame  6  is:  30
+Frame score for frame  7  is:  30
+Frame score for frame  8  is:  27
+Frame score for frame  9  is:  20
+Frame score for frame  10  is:  20
+Final Game Score is:  277
+PS C:\Users\abhee\OneDrive\Documents\Study\Assignment - Take Home>
+PS C:\Users\abhee\OneDrive\Documents\Study\Assignment - Take Home>
