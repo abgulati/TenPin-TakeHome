@@ -1,24 +1,36 @@
 Objective:
 
 Produce the score for one single-lane game of American ten-pin bowling
+
 ↳ Not checking if rolls are valid or invalid
+
 ↳ Not checking for the correct number of rolls and frames
+
 ↳ Not scoring intermediate frames (?)
+
 
 
 Game Rules:
 
 Ten-pin bowling:
+
 ↳ Game consists of 10 “frames”
+
 ↳ Each frame provides players two opportunities to knock down all ten pins
+
 ↳ The score for a frame is the total number of pins knocked down, and any bonuses
+
 ↳ A “spare” is when all 10 pins are knocked down in those two attempts, thus completing the frame
 	↳ Bonus: the first roll of the next frame; that score will therefore count twice!
+	
 ↳ A “strike” is when all 10 pins are knocked down in the very first roll of a frame, essentially completing the frame
 	↳ Bonus: the score of the next two rolls!
+	
 ↳ This way, the max score for a frame is 30, including bonuses
 	↳ Thus for a game of 10 frames, it’s 300
+	
 ↳ Additionally, if a player scores a strike or a spare in the final (10th) frame, they do get to roll the extra balls but no more    than three rolls are allowed in the final frame, this way a game can have a maximum of 12 strikes
+
 
 Approach:
 
